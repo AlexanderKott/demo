@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 user1 dont want to delete this line
+=======xxxxxxxxxxxxxx
+user2 deletes line
+>>>>>>> 4c9df7310550c377cfa2c04005ad1c8f4e5bec69
